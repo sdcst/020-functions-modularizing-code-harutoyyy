@@ -11,7 +11,7 @@ plays the games
 
 
 def title():
-    print("Guessing number game")
+    print("GUESING NUMBER GAME")
 
 def game():
     import random

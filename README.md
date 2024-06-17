@@ -5,7 +5,7 @@ Objectives:
 * Make a function call to execute a function
 * Create your own function
 
-Programs can get very long and complicated.  Often, we try to break a program into smaller tasks.  In fact, we can often think of having a program within a program.  These may have their own variables, and have limited data that they receive or send to other parts of the main program.
+Programs can get very long and complicaetd.  Often, we try to break a program into smaller tasks.  In fact, we can often think of having a program within a program.  These may have their own variables, and have limited data that they receive or send to other parts of the main program.
 
 Today, we will explore how a function is defined and how we execute or "call" the function.
 
